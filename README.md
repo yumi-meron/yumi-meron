@@ -1,7 +1,7 @@
 - 👋 Hi there, I'm @yumi-meron
 - 🔭 I’m interested in programming
 - 🌱 I’m currently learning DSA
-- - 📫 How to reach me: meron.w.teka@gmail.com
+-  📫 How to reach me: meron.w.teka@gmail.com
 - 👯 I’m looking forward to work with...
 
 
