@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Meron Weldu Teka</h1>
-<h3 align="center">A passionate Mobile developer from Ethiopia</h3>
+<h3 align="center">A passionate Mobile and Backend developer from Ethiopia</h3>
 
 - 🌱 I’m currently learning **Data Structure and Algorithm, Mobile Development, UI/UX**
 
