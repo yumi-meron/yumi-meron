@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Meron Weldu Teka</h1>
 <h3 align="center">I am a Software Engineering graduate from Addis Ababa Science and Technology University (AASTU) specializing in high-throughput backend systems, distributed architectures, and clean mobile application design.</h3>
 
-- 🚀 **Core Focus:** Building robust distributed systems, optimizing multi-container workflows, and designing clean-architecture applications.[cite: 1]
-- 🎓 **Background:** Graduate fellowship at Africa To Silicon Valley (A2SV), backed by Google, focusing on advanced data structures and algorithms.[cite: 1]
+- 🚀 **Core Focus:** Building robust distributed systems, optimizing multi-container workflows, and designing clean-architecture applications.
+- 🎓 **Background:** Graduate fellowship at Africa To Silicon Valley (A2SV), backed by Google, focusing on advanced data structures and algorithms.
 
 ---
 
