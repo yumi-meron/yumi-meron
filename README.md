@@ -9,21 +9,21 @@
 ### 🛠️ Featured Projects
 
 #### ⚡ [Distributed Async Task Platform](https://github.com/yumi-meron/task-platform)
-An asynchronous job execution engine built using a multi-file architecture.[cite: 1]
-- **Tech Stack:** Python, FastAPI, Celery, Redis, PostgreSQL, SQLAlchemy 2.0, Docker & Docker Compose[cite: 1]
-- **Key Features:** Engineered a worker subsystem featuring status state machines, exponential backoff retries, and multi-channel priority queues. Built a Redis cache-aside layer and a token-bucket rate limiter to maximize system throughput.[cite: 1]
+An asynchronous job execution engine built using a multi-file architecture.
+- **Tech Stack:** Python, FastAPI, Celery, Redis, PostgreSQL, SQLAlchemy 2.0, Docker & Docker Compose
+- **Key Features:** Engineered a worker subsystem featuring status state machines, exponential backoff retries, and multi-channel priority queues. Built a Redis cache-aside layer and a token-bucket rate limiter to maximize system throughput.
 
 #### 🤖 [IONO — AI-Powered Research Platform](https://github.com/Hackernomix2/Iono-API)
-An AI-driven data ingestion pipeline designed to process unstructured research documents into real-time insights.[cite: 1]
-- **Tech Stack:** Python, Django, PostgreSQL, LangChain, Gemini AI[cite: 1]
-- **Key Features:** Collaborated in a team to build an automated document digitization and semantic search pipeline using OCR and NLP, implementing a 24/7 conversational assistant using Retrieval-Augmented Generation (RAG).[cite: 1]
+An AI-driven data ingestion pipeline designed to process unstructured research documents into real-time insights.
+- **Tech Stack:** Python, Django, PostgreSQL, LangChain, Gemini AI
+- **Key Features:** Collaborated in a team to build an automated document digitization and semantic search pipeline using OCR and NLP, implementing a 24/7 conversational assistant using Retrieval-Augmented Generation (RAG).
 
 ---
 
 ### 🏆 Achievements & Leadership
-- 🎯 **Competitive Programming:** Placed 3rd in the ICPC Ethiopian CPC, advancing to the ACPC Finals. Solved 1,150+ algorithmic problems across LeetCode and Codeforces.[cite: 1]
-- 👨‍🏫 **Technical Instructor:** Designed and taught intensive courses in algorithms, data structures, and clean code for 150+ students as an Instructor at A2SV.[cite: 1]
-- 👥 **Community Mentorship:** Served as a Flutter Mentor at GDG AASTU, guiding 20+ students through hands-on mobile application workflows.[cite: 1]
+- 🎯 **Competitive Programming:** Placed 3rd in the ICPC Ethiopian CPC, advancing to the ACPC Finals. Solved 1,150+ algorithmic problems across LeetCode and Codeforces.
+- 👨‍🏫 **Technical Instructor:** Designed and taught intensive courses in algorithms, data structures, and clean code for 150+ students as an Instructor at A2SV.
+- 👥 **Community Mentorship:** Served as a Flutter Mentor at GDG AASTU, guiding 20+ students through hands-on mobile application workflows.
 
 ---
 
@@ -54,4 +54,4 @@ An AI-driven data ingestion pipeline designed to process unstructured research d
 <a href="https://www.leetcode.com/yumi_meron" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yumi_meron" height="30" width="40" /></a>
 </p>
 
-📬 **Email:** meron.w.teka@gmail.com[cite: 1]
+📬 **Email:** meron.w.teka@gmail.com
